@@ -10,7 +10,7 @@ Front-end developer with experience in HTML, CSS, and JavaScript frameworks like
 *   🖥️  See my portfolio at [My Site](http://edg1.pt)
 *   ✉️  You can contact me at [edgtavares92@gmail.com](mailto:edgtavares92@gmail.com)
 *   🧠  I'm learning Node.js, TypeScript and Nuxt.js
-*   🤝  I'm open to collaborating on Projects
+*   🤝  I'm open to collaborating on new Projects
 *   ⚡  I am an amateur music producer
 
 ### Skills 
