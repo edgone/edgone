@@ -7,7 +7,7 @@ Front-end Developer
 Front-end developer with experience in HTML, CSS, and JavaScript frameworks like Vue.js. Building responsive and performant web experiences that users love.
 
 *   🌍  I'm based in Lisbon, Portugal
-*   🖥️  See my portfolio at [My Site](http://edg1.pt)
+*   🖥️  See my portfolio at [edg1.pt](http://edg1.pt)
 *   ✉️  You can contact me at [edgtavares92@gmail.com](mailto:edgtavares92@gmail.com)
 *   🧠  I'm learning Node.js, TypeScript and Nuxt.js
 *   🤝  I'm open to collaborating on new Projects
